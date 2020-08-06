@@ -21,7 +21,6 @@ const ScheduleRow = memo(function ScheduleRow(props) {
         beforeDepartStation,
         afterArriveStation,
     } = props;
-    
     return (
         <li>
             <div
